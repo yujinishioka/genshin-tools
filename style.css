@@ -1,5 +1,5 @@
 header {
-    background: #97bae7;
+    background: #5b89c5;
     padding: 70px 0;
 }
 
@@ -31,6 +31,10 @@ nav a {
 nav a:hover {
     color: yellow;
     text-decoration: underline;
+}
+
+.banner {
+    width: 100%;
 }
 
 p {
