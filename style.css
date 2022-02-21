@@ -33,6 +33,17 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.intro {
+    color: blue;
+    font-size: 20px;
+    margin: 20px 0 20px 60px;
+    text-align: left;
+}
+
+.banner {
+    width: 100%;
+}
+
 p {
     text-align: center;
 }
