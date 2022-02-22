@@ -1,0 +1,9 @@
+.personagens{
+    position: relative;
+    width: 20%;
+}
+
+.descricao{
+    position: absolute;
+    margin: 10px 30px;
+}
