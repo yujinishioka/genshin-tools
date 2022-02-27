@@ -1,4 +1,6 @@
-const jsonPersonagem = require('../../json/dados-personagens.json')
-const jsonArtefato = require('../../json/dados-artefatos.json')
+const personagem = require('../../json/dados-personagens.json');
+const artefato = require('../../json/dados-artefatos.json');
 
-console.log(jsonPersonagem)
+function buscar(){
+    console.log(personagem)
+}

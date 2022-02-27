@@ -26,8 +26,15 @@
     </header>
     <main>
 		<div class="busca">
-			<input type="text" name="txt" placeholder="Buscar">
-			<p class="legenda">Escolha o personagem</p>
+			<input type="text" name="txtNome" id="pesquisa" placeholder="Pesquise pelo Personagem">
+            <p class="legenda"> -------------- ou -------------- </p>
+            <select name="nome" id="selecao">
+                <option value="null"> - Selecione o Personagem - </option>
+                <option value="0">Albedo</option>
+                <option value="1">Aloy</option>
+            </select>
+            <p>Selecione seu Personagem e depois click em "Buscar"</p>
+            <button onclick="buscar()" id="busca">Buscar</button>
 		</div>
     </main>
     <footer>

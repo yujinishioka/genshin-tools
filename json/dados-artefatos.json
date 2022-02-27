@@ -1,10 +1,10 @@
+[{
+    "nome": "gladiators_finale",
+    "set2": 18,
+    "set4": 35
+},
 {
-    "gladiators_finale": {
-        "set2": 18,
-        "set4": 35
-    },
-    "wanderers_troupe": {
-        "set2": 80,
-        "set4": 35
-    }
-}
+    "nome": "wanderers_troupe",
+    "set2": 80,
+    "set4": 35
+}]
