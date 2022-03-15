@@ -12,7 +12,7 @@ executa operações de comparação com sets de artefatos de 2/2 e 4, informando
 
 ### Agradecimentos:
 **Honey Impact**: pelas informações de dados
-https://genshin.honeyhunterworld.com/
+[![HoneyImpact](https://img.shields.io/badge/HoneyImpact-yellow)](https://genshin.honeyhunterworld.com/)
 
 **Genshin Impact Fandom**: pelas imagens
-https://genshin-impact.fandom.com/wiki/Characters
+[![GenshinFandom](https://img.shields.io/badge/GenshinFandom-yellow)](https://genshin-impact.fandom.com/wiki)
